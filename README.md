@@ -7,4 +7,4 @@ Shows recipes from [dummyjson.com/recipes](dummyjson.com/recipes)
 ## Screenshots
 | Table View | Detail View |
 |------------|-------------|
-| [Table View](/Screenshots/table-view.png) | [Detail View](/Screenshots/detail-view.png) |
+| ![Table View](./Screenshots/table-view.png) | ![Detail View](./Screenshots/detail-view.png) |
